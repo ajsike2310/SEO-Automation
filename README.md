@@ -23,7 +23,7 @@ A comprehensive SEO automation toolkit featuring Python scripts for backlink mon
 
 If you have Git installed:
 ```bash
-git clone <repository-url>
+git clone https://github.com/ajsike2310/SEO-Automation.git
 cd ASIS_SEO_Automation
 ```
 
